@@ -1,0 +1,11 @@
+{
+  "main_model": "claude",
+  "secondary_model": "gemini",
+  "models": {
+    "gemini": {
+      "provider": "custom",
+      "model": "gemini-2.5-pro-preview-05-06",
+      "api_key": "AIzaSyB_5gh1af7Ost-GDmw4C8mGci-9rD7A_Co"
+    }
+  }
+}
