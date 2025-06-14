@@ -169,7 +169,7 @@ npm run build-css
 MIT License - see LICENSE file for details.
 
 
-Lamans Desc:
+Layman's Desc:
 # Event Photo App – Simple Overview
 
 This app is made to help photographers sell photos quickly at events.
