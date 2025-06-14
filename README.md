@@ -167,3 +167,75 @@ npm run build-css
 ## License
 
 MIT License - see LICENSE file for details.
+
+
+Lamans Desc:
+# Event Photo App – Simple Overview
+
+This app is made to help photographers sell photos quickly at events.
+
+There are 3 main people who use it:
+
+---
+
+## 1. The Admin (You or Someone in Charge Before the Event)
+
+* Sets up the event in the app (name, date, location).
+* Adds how much prints and digital images will cost.
+* Can upload sponsor ads (banners or videos).
+* Sponsors can give customers discounts if they look at their ad.
+* Once everything is set up, the photographer can start using it at the event.
+
+---
+
+## 2. The Photographer (Using the App at the Event)
+
+* Takes photos at the event.
+* The app watches a folder and shows the new photos as they’re added.
+* Photographer picks which pictures should be shown to customers.
+* Shows customers the gallery on their phone or tablet.
+* Customers pick their photos, and the photographer checks them out.
+* Photographer presses a “Process” button to deliver the images.
+* If prints are ordered, a special QR code is made for printing.
+
+---
+
+## 3. The Customer (At the Event)
+
+### Option 1: Photographer helps them
+
+* Photographer shows them photos on a device.
+* They choose what they want and pay in person.
+* Photographer processes the order (digital or print).
+
+### Option 2: They scan a QR code on their phone
+
+* They see all the event’s photos.
+* They can buy digital images or prints.
+* They can also view sponsor ads to earn “points.”
+
+  * Points can be used for discounts or free images.
+
+**After purchase:**
+
+* They get a personal gallery showing only their photos.
+* They can download, share to Instagram, or get a QR code to print their order.
+
+---
+
+## Printing System
+
+* After a customer orders prints, they get a **QR code**.
+* They go to a print station or kiosk and scan the QR code.
+* The machine prints their photos.
+* Once printed, the app marks the order as complete.
+
+---
+
+## Key Features
+
+* Easy for customers to buy photos during or after an event.
+* Works both in-person (assisted) and on their own (QR).
+* Sponsors can advertise, and their ads help lower customer costs.
+* Tracks everything for each event: orders, money made, prints sent.
+
